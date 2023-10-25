@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piyushroy007
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Angular and React
+- 🌱 I’m currently working in Angular and JavaScript.
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 Reach Me at :7278390988
 
