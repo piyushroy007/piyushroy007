@@ -5,6 +5,7 @@
 - 📫 Reach Me at :7278390988
 - https://www.hackerrank.com/profile/piyush9051roy
 - https://stackoverflow.com/users/10298361/piyush-roy
+- https://www.geeksforgeeks.org/user/piyushroy/
 
 <!---
 piyushroy007/piyushroy007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
